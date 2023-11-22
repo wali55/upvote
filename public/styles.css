@@ -1,0 +1,6 @@
+.section {
+    width: 600px;
+    margin: 0 auto;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
